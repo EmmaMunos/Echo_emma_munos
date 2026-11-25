@@ -1,0 +1,6 @@
+{
+  "name": "ÉCHO",
+  "description": "Outil de dessin génératif minimaliste transformant des gestes simples en compositions abstraites par répétition et symétrie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
